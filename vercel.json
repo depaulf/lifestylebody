@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    { "source": "/manifest.json",          "destination": "/public/manifest.json" },
+    { "source": "/style.css",              "destination": "/public/style.css" },
+    { "source": "/app.js",                 "destination": "/public/app.js" },
+    { "source": "/icon.svg",               "destination": "/public/icon.svg" },
+    { "source": "/icon-192.png",           "destination": "/public/icon-192.png" },
+    { "source": "/icon-512.png",           "destination": "/public/icon-512.png" },
+    { "source": "/apple-touch-icon.png",   "destination": "/public/apple-touch-icon.png" },
+    { "source": "/",                       "destination": "/public/index.html" }
+  ]
+}
