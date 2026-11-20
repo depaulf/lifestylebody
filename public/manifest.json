@@ -1,7 +1,7 @@
 {
-  "name": "Lifestyle Body Tracker",
-  "short_name": "LB Tracker",
-  "description": "Greg O'Gallagher Movie Star Body KPI Tracker",
+  "name": "Lifestyle Body — Fat Loss Protocol",
+  "short_name": "LB Protocol",
+  "description": "Execute DePaul Foxworth's locked fat-loss protocol — meals, lifts, taper, safety.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0a0a",
